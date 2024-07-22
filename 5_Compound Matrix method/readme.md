@@ -10,10 +10,12 @@
 	Code for scanning 2d space of real and imag values of c and plotting a 3D graph of residuals.
 
 ======================================================
+
 eeOS.mat -- contains 13 EVs of Collocation code.
 Colloc_vs_CMM_figure -- result of code 1
 Grid_Surface_plot -- result of code 3
 
 ======================================================
+
 getMinors.m --- function file for getting minors of independent solution.
 SimpleSecMeth2 --- function file for secant method
